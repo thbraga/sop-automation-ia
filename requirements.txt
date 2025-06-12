@@ -1,0 +1,6 @@
+openai
+gspread
+oauth2client
+google-api-python-client
+python-docx
+python-dotenv
